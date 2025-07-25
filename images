@@ -96,6 +96,26 @@ class Engine(object):
                 )
 
 
+data = "Username: {}\nPassword: {}\n\n".format(
+                self.username.title(), password
+data = "Username: {}\nPassword: {}\n\n".format(
+                self.username.title(), password
+data = "Username: {}\nPassword: {}\n\n".format(
+                self.username.title(), password
+data = "Username: {}\nPassword: {}\n\n".format(
+                self.username.title(), password
+data = "Username: {}\nPassword: {}\n\n".format(
+                self.username.title(), password
+data = "Username: {}\nPassword: {}\n\n".format(
+                self.username.title(), password
+data = "Username: {}\nPassword: {}\n\n".format(
+                self.username.title(), password
+
+
+
+
+
+
 def valid_int(n):
     if not n.isdigit():
         raise ArgumentTypeError("mode must be a number")
